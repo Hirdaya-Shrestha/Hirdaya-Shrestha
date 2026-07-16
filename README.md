@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-373737?style=for-the-badge&logo=next.js&logoColor=white)](https://hirdaya-shrestha.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hridayashrestha)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hirdaya098@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-ee2a7b?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/Hirdaya-Shrestha)
+[![Instagram](https://img.shields.io/badge/Instagram-ee2a7b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hirdayashrestha/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-075E54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779704568737)
 
 </div>
