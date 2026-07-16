@@ -2,7 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=Hirdaya+Shrestha;An+Engineering+Student" alt="Typing SVG" />
 
-<img height="330" src="https://stats.hirdaya-shrestha.com.np/profile" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats.hirdaya-shrestha.com.np/profile">
+  <source media="(prefers-color-scheme: light)" srcset="https://stats.hirdaya-shrestha.com.np/profile?theme=light">
+  <img alt="Profile" src="https://stats.hirdaya-shrestha.com.np/profile">
+</picture>
 
 <br>
 <br>
@@ -103,7 +107,7 @@ Business analytics platform for tracking and visualizing revenue performance.<br
 
 <div align="center">
 
-<img height="260" src="https://stats.hirdaya-shrestha.com.np/" />
+<img src="https://stats.hirdaya-shrestha.com.np" />
 
 </div>
 
