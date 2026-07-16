@@ -2,6 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=Hirdaya+Shrestha;An+Engineering+Student" alt="Typing SVG" />
 
+<img height="330" src="https://stats.hirdaya-shrestha.com.np/profile" />
+
+<br>
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-373737?style=for-the-badge&logo=next.js&logoColor=white)](https://hirdaya-shrestha.com.np)
