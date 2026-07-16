@@ -101,6 +101,7 @@ Business analytics platform for tracking and visualizing revenue performance.<br
 <div align="center">
 
 <img height="260" src="https://stats.hirdaya-shrestha.com.np/" />
+<img height="260" src="https://stats.hirdaya-shrestha.com.np/profile" />
 
 </div>
 
