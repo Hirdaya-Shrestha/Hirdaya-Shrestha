@@ -99,9 +99,8 @@ Business analytics platform for tracking and visualizing revenue performance.<br
 ## 📊 GitHub Stats
 
 <div align="center">
-<!-- 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hirdaya-Shrestha&show_icons=true&theme=transparent&title_color=00D9FF&icon_color=F5A623&text_color=E5E5E5&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirdaya-Shrestha&layout=compact&theme=transparent&title_color=00D9FF&text_color=E5E5E5&hide_border=true" /> -->
+
+<img height="165" src="https://stats.hirdaya-shrestha.com.np/" />
 
 </div>
 
@@ -109,6 +108,6 @@ Business analytics platform for tracking and visualizing revenue performance.<br
 
 <div align="center">
 
-<!-- _Open to interesting builds and collaborations — reach out via the links above._
--->
+_Open to interesting builds and collaborations — reach out via the links above._
+
 </div>
