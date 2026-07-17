@@ -15,10 +15,13 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - name: Update date in README
+      - name: Update README cache buster
         run: |
           DATE=$(date +%Y%m%d)
-          sed -i "s|?v=[0-9]*|?v=$DATE|g" README.md
+      
+          perl -pi -e "s/\?v=\d+/?v=$DATE/g" README.md
+      
+          git diff README.md || true
 
       - name: Commit changes
         run: |
