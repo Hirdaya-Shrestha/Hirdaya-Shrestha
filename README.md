@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://stats.hirdaya-shrestha.com.np/profile?v=20260717">
-  <source media="(prefers-color-scheme: light)" srcset="https://stats.hirdaya-shrestha.com.np/profile?theme=light&v=20260717">
+  <source media="(prefers-color-scheme: light)" srcset="https://stats.hirdaya-shrestha.com.np/profile?v=20260717&theme=light">
   <img alt="Profile" src="https://stats.hirdaya-shrestha.com.np/profile?v=20260717">
 </picture>
 
