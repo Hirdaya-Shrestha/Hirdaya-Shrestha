@@ -3,9 +3,9 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=Hirdaya+Shrestha;An+Engineering+Student" alt="Typing SVG" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://stats.hirdaya-shrestha.com.np/profile?v=20260717">
-  <source media="(prefers-color-scheme: light)" srcset="https://stats.hirdaya-shrestha.com.np/profile?v=20260717&theme=light">
-  <img alt="Profile" src="https://stats.hirdaya-shrestha.com.np/profile?v=20260717">
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats.hirdaya-shrestha.com.np/profile?v=20260718">
+  <source media="(prefers-color-scheme: light)" srcset="https://stats.hirdaya-shrestha.com.np/profile?v=20260718&theme=light">
+  <img alt="Profile" src="https://stats.hirdaya-shrestha.com.np/profile?v=20260718">
 </picture>
 
 <br>
@@ -107,7 +107,7 @@ Business analytics platform for tracking and visualizing revenue performance.<br
 
 <div align="center">
 
-<img src="https://stats.hirdaya-shrestha.com.np?v=20260717" />
+<img src="https://stats.hirdaya-shrestha.com.np?v=20260718" />
 
 </div>
 
