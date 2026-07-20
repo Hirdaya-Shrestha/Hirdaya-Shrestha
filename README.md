@@ -19,6 +19,16 @@
 
 </div>
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats.hirdaya-shrestha.com.np/contribution?v=20260720">
+  <source media="(prefers-color-scheme: light)" srcset="https://stats.hirdaya-shrestha.com.np/contribution?v=20260720&theme=light">
+  <img alt="Profile" src="https://stats.hirdaya-shrestha.com.np/contribution?v=20260720">
+</picture>
+
+<br>
+
 ## 🧭 About
 
 Engineering student passionate about software craftsmanship - building refined digital products with **Flutter**, **React**, **C++**, and modern cloud infrastructure. **4+ years** of experience across mobile apps, web experiences, and creative tools.
