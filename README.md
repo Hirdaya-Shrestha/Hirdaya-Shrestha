@@ -5,7 +5,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://stats.hirdaya-shrestha.com.np/profile?v=20260720">
   <source media="(prefers-color-scheme: light)" srcset="https://stats.hirdaya-shrestha.com.np/profile?v=20260720&theme=light">
-  <img width="100%" height="400px" alt="Profile" src="https://stats.hirdaya-shrestha.com.np/profile?v=20260720">
+  <img alt="Profile" src="https://stats.hirdaya-shrestha.com.np/profile?v=20260720">
 </picture>
 
 <br>
