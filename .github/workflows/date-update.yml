@@ -1,40 +1,27 @@
-name: Update Stats
-
+name: Update Profile Card Date
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch:    # Allows manual trigger
-
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 permissions:
   contents: write
-
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - name: Fetch SVGs and Update Date
+      - name: Update date in README
         run: |
           DATE=$(date +%Y%m%d)
-          
-          # Fetch Dark Mode Version
-          curl -s "https://stats.hirdaya-shrestha.com.np/profile.svg?v=$DATE" -o profile-dark.svg
-          
-          curl -s "https://stats.hirdaya-shrestha.com.np/contribution.svg?v=$DATE" -o contribution-dark.svg
-          
-          # Fetch Light Mode Version
-          curl -s "https://stats.hirdaya-shrestha.com.np/profile.svg?v=$DATE&theme=light" -o profile-light.svg
-          
-          curl -s "https://stats.hirdaya-shrestha.com.np/contribution.svg?v=$DATE&theme=light" -o contribution-light.svg
+          sed -i "s|?v=[0-9]*|?v=$DATE|g" README.md
 
-      - name: Commit and Push Changes
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-dark.svg profile-light.svg README.md
+          git add README.md
           git diff --cached --quiet && exit 0
-          git commit -m "chore: update profile svg to $(date +%Y%m%d) [skip ci]"
+          git commit -m "chore: update card date"
           git pull --rebase
-          git push   
+          git push
