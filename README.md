@@ -29,15 +29,15 @@
 
 <br>
 
-## 🧭 About
+## About
 
-Engineering student passionate about software craftsmanship - building refined digital products with **Flutter**, **React**, **C++**, and modern cloud infrastructure. **4+ years** of experience across mobile apps, web experiences, and creative tools.
+Engineering student building production-quality software across mobile, web, and native systems — with a focus on **Flutter**, **React**, **C++**, and modern cloud infrastructure.
 
-I sweat the details most people skip: smooth animations, thoughtful UX, and code that's built to last.
+**4+ years** of experience shipping mobile apps, web platforms, and developer tooling, with particular attention to interaction design, animation, and long-term maintainability.
 
 <br>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -67,49 +67,44 @@ Business analytics platform for tracking and visualizing revenue performance.<br
 
 <br>
 
-## 🛠️ Tech Stack
+<div align="center">
 
-<table>
-<tr>
-<td valign="top" width="25%">
+<img src="https://img.shields.io/badge/-1793D1?style=flat-square&logo=archlinux&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Arch Linux"/>
+<br>
+<img src="https://img.shields.io/badge/-7F52FF?style=flat-square&logo=kotlin&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/-20232A?style=flat-square&logo=react&logoColor=61DAFB" width="44" height="44" style="border-radius:11px;" alt="React"/>
+<br>
+<img src="https://img.shields.io/badge/-00599C?style=flat-square&logo=cplusplus&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="C++"/>
+<img src="https://img.shields.io/badge/-0175C2?style=flat-square&logo=dart&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Dart"/>
+<img src="https://img.shields.io/badge/-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Android Studio"/>
+<br>
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=next.js&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Next.js"/>
+<img src="https://img.shields.io/badge/-3178C6?style=flat-square&logo=typescript&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=FFD43B" width="44" height="44" style="border-radius:11px;" alt="Python"/>
+<br>
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=rust&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Rust"/>
+<img src="https://img.shields.io/badge/-ED8B00?style=flat-square&logo=openjdk&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Java"/>
+<img src="https://img.shields.io/badge/-FFCA28?style=flat-square&logo=firebase&logoColor=black" width="44" height="44" style="border-radius:11px;" alt="Firebase"/>
+<img src="https://img.shields.io/badge/-4285F4?style=flat-square&logo=googlecloud&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/-F38020?style=flat-square&logo=cloudflare&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Cloudflare"/>
+<br>
+<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="GitHub"/>
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=linux&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Linux"/>
+<img src="https://img.shields.io/badge/-57A143?style=flat-square&logo=neovim&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Neovim"/>
+<img src="https://img.shields.io/badge/-02569B?style=flat-square&logo=flutter&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Flutter"/>
+<img src="https://img.shields.io/badge/-02303A?style=flat-square&logo=gradle&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Gradle"/>
+<img src="https://img.shields.io/badge/-4479A1?style=flat-square&logo=mysql&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="MySQL"/>
+<br>
+<img src="https://img.shields.io/badge/-41CD52?style=flat-square&logo=qt&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Qt"/>
+<img src="https://img.shields.io/badge/-5C3EE8?style=flat-square&logo=opencv&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/-777BB4?style=flat-square&logo=php&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="PHP"/>
+<img src="https://img.shields.io/badge/-00979D?style=flat-square&logo=arduino&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Arduino"/>
+<img src="https://img.shields.io/badge/-24C8DB?style=flat-square&logo=tauri&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Tauri"/>
+<img src="https://img.shields.io/badge/-F58025?style=flat-square&logo=stackoverflow&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Stack Overflow"/>
+<img src="https://img.shields.io/badge/-242526?style=flat-square&logo=railway&logoColor=white" width="44" height="44" style="border-radius:11px;" alt="Railway"/>
 
-**Mobile**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
-
-</td>
-<td valign="top" width="25%">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
-
-</td>
-<td valign="top" width="25%">
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=cpp,py,rust,java" />
-
-</td>
-<td valign="top" width="25%">
-
-**Infra**
-
-<img src="https://skillicons.dev/icons?i=firebase,gcp,cloudflare,github" />
-
-</td>
-</tr>
-<tr>
-<td colspan="4" align="center">
-
-**More**
-
-<img src="https://skillicons.dev/icons?i=arch,arduino,gradle,linux,neovim,mysql,opencv,php,qt,stackoverflow,tauri" />
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
