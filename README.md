@@ -56,13 +56,6 @@ Intel 8085 microprocessor simulator for Android with an interactive IDE and 40+ 
 <img src="https://img.shields.io/badge/Status-Coming_Soon-F5A623?style=flat-square" />
 </td>
 </tr>
-<tr>
-<td width="auto" valign="top"><strong style="white-space: nowrap;">Rev Pilot</strong></td>
-<td>
-Business analytics platform for tracking and visualizing revenue performance.<br><br>
-<img src="https://img.shields.io/badge/Status-Coming_Soon-F5A623?style=flat-square" />
-</td>
-</tr>
 </table>
 
 <br>
