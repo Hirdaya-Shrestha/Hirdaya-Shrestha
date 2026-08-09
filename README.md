@@ -39,25 +39,10 @@ Engineering student building production-quality software across mobile, web, and
 <br>
 
 ## Featured Projects
-
-<table>
-<tr>
-<td width="auto" align="center" valign="center"><img src="https://play-lh.googleusercontent.com/wmpv9AettqBKrMylsRcS7bMQWYhBpDEZD76w5DWxWAf8NKaNkUl-WAWD4vNHQ_ihZOISrxzmf1jfmYt7OGEi7s4=s96" width="52" height="52" style="vertical-align:middle;border-radius:10px;margin-bottom:8px;" alt="Links Vault icon" /></br><strong style="white-space: nowrap;">Links Vault</strong></td>
-<td>
-Save, organize, and access links offline — built for speed and reliability.<br>
-<code>Flutter</code> <code>Dart</code><br><br>
-<a href="https://play.google.com/store/apps/details?id=com.ha.nep.linksvault"><img src="https://img.shields.io/badge/Google_Play-Live-34A853?style=flat-square&logo=googleplay&logoColor=white" /></a>
-</td>
-</tr>
-<tr>
-<td width="auto" align="center" valign="center"><img src="https://play-lh.googleusercontent.com/z0SbccgtbGtGsghZWg7Psf-SrSOLFNblWci3AcgRy3V7DdOO1FXAspTZ6YWVxrhimLXY7U0mZPS6HzTAfbwafg=w240-h480-rw" width="52" height="52" style="vertical-align:middle;border-radius:10px;margin-bottom:8px;" alt="HexA8085 icon" /></br><strong style="white-space: nowrap;">HexA8085 </strong></td>
-<td>
-Intel 8085 microprocessor simulator for Android with an interactive IDE and 40+ bundled assembly programs.<br>
-<code>Kotlin</code> <code>Jetpack Compose</code><br><br>
-<a href="https://play.google.com/store/apps/details?id=com.ha.nep.hexa8085"><img src="https://img.shields.io/badge/Google_Play-Live-34A853?style=flat-square&logo=googleplay&logoColor=white" /></a>
-</td>
-</tr>
-</table>
+| Project | Description |
+|:---:|---|
+| <img src="https://play-lh.googleusercontent.com/wmpv9AettqBKrMylsRcS7bMQWYhBpDEZD76w5DWxWAf8NKaNkUl-WAWD4vNHQ_ihZOISrxzmf1jfmYt7OGEi7s4=s96" width="52" height="52" alt="Links Vault icon"><br>**Links Vault** | Save, organize, and access links offline — built for speed and reliability.<br><br>`Flutter` `Dart`<br><br>[![Google Play](https://img.shields.io/badge/Google_Play-Live-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.ha.nep.linksvault) |
+| <img src="https://play-lh.googleusercontent.com/z0SbccgtbGtGsghZWg7Psf-SrSOLFNblWci3AcgRy3V7DdOO1FXAspTZ6YWVxrhimLXY7U0mZPS6HzTAfbwafg=w240-h480-rw" width="52" height="52" alt="HexA8085 icon"><br>**HexA8085** | Intel 8085 microprocessor simulator for Android with an interactive IDE and 40+ bundled assembly programs.<br><br>`Kotlin` `Jetpack Compose`<br><br>[![Google Play](https://img.shields.io/badge/Google_Play-Live-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.ha.nep.hexa8085) |
 
 <br>
 
