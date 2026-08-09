@@ -3,9 +3,9 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=Hirdaya+Shrestha;An+Engineering+Student" alt="Typing SVG" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://stats.hirdaya-shrestha.com.np/profile?v=20260808">
-  <source media="(prefers-color-scheme: light)" srcset="https://stats.hirdaya-shrestha.com.np/profile?v=20260808&theme=light">
-  <img alt="Profile" src="https://stats.hirdaya-shrestha.com.np/profile?v=20260808">
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats.hirdaya-shrestha.com.np/profile?v=20260809">
+  <source media="(prefers-color-scheme: light)" srcset="https://stats.hirdaya-shrestha.com.np/profile?v=20260809&theme=light">
+  <img alt="Profile" src="https://stats.hirdaya-shrestha.com.np/profile?v=20260809">
 </picture>
 
 <br>
@@ -23,9 +23,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://stats.hirdaya-shrestha.com.np/contribution?v=20260808">
-  <source media="(prefers-color-scheme: light)" srcset="https://stats.hirdaya-shrestha.com.np/contribution?v=20260808&theme=light">
-  <img alt="Profile" src="https://stats.hirdaya-shrestha.com.np/contribution?v=20260808">
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats.hirdaya-shrestha.com.np/contribution?v=20260809">
+  <source media="(prefers-color-scheme: light)" srcset="https://stats.hirdaya-shrestha.com.np/contribution?v=20260809&theme=light">
+  <img alt="Profile" src="https://stats.hirdaya-shrestha.com.np/contribution?v=20260809">
 </picture>
 
 <br>
@@ -106,7 +106,7 @@ Intel 8085 microprocessor simulator for Android with an interactive IDE and 40+ 
 
 <div align="center">
 
-<img src="https://stats.hirdaya-shrestha.com.np?v=20260808" />
+<img src="https://stats.hirdaya-shrestha.com.np?v=20260809" />
 
 </div>
 
