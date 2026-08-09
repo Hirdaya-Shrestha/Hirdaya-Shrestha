@@ -50,11 +50,11 @@ Save, organize, and access links offline — built for speed and reliability.<br
 </td>
 </tr>
 <tr>
-<td width="auto" valign="top"><strong style="white-space: nowrap;">HexA8085 </strong></td>
+<td width="auto" align="center" valign="center"><img src="https://play-lh.googleusercontent.com/z0SbccgtbGtGsghZWg7Psf-SrSOLFNblWci3AcgRy3V7DdOO1FXAspTZ6YWVxrhimLXY7U0mZPS6HzTAfbwafg=w240-h480-rw" width="52" height="52" style="vertical-align:middle;border-radius:10px;margin-bottom:8px;" alt="HexA8085 icon" /></br><strong style="white-space: nowrap;">HexA8085 </strong></td>
 <td>
 Intel 8085 microprocessor simulator for Android with an interactive IDE and 40+ bundled assembly programs.<br>
 <code>Kotlin</code> <code>Jetpack Compose</code><br><br>
-<img src="https://img.shields.io/badge/Status-Coming_Soon-F5A623?style=flat-square" />
+<a href="https://play.google.com/store/apps/details?id=com.ha.nep.hexa8085"><img src="https://img.shields.io/badge/Google_Play-Live-34A853?style=flat-square&logo=googleplay&logoColor=white" /></a>
 </td>
 </tr>
 </table>
