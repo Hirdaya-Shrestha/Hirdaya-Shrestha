@@ -3,9 +3,9 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=Hirdaya+Shrestha;An+Engineering+Student" alt="Typing SVG" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-production-3d62.up.railway.app/profile?v=20260906">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-production-3d62.up.railway.app/profile?v=20260906&theme=light">
-  <img alt="Profile" src="https://github-stats-production-3d62.up.railway.app/profile?v=20260906">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-production-3d62.up.railway.app/profile?v=20260907">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-production-3d62.up.railway.app/profile?v=20260907&theme=light">
+  <img alt="Profile" src="https://github-stats-production-3d62.up.railway.app/profile?v=20260907">
 </picture>
 
 <br>
@@ -23,9 +23,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-production-3d62.up.railway.app/contribution?v=20260906">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-production-3d62.up.railway.app/contribution?v=20260906&theme=light">
-  <img alt="Profile" src="https://github-stats-production-3d62.up.railway.app/contribution?v=20260906">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-production-3d62.up.railway.app/contribution?v=20260907">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-production-3d62.up.railway.app/contribution?v=20260907&theme=light">
+  <img alt="Profile" src="https://github-stats-production-3d62.up.railway.app/contribution?v=20260907">
 </picture>
 
 <br>
@@ -91,7 +91,7 @@ Engineering student building production-quality software across mobile, web, and
 
 <div align="center">
 
-<img src="https://github-stats-production-3d62.up.railway.app?v=20260906" />
+<img src="https://github-stats-production-3d62.up.railway.app?v=20260907" />
 
 </div>
 
