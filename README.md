@@ -23,9 +23,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-production-3d62.up.railway.app/contribution?v=20260928">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-production-3d62.up.railway.app/contribution?v=20260928&theme=light">
-  <img alt="Profile" src="https://github-stats-production-3d62.up.railway.app/contribution?v=20260928">
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats.hirdaya-shrestha.com.np/contribution?v=20260928">
+  <source media="(prefers-color-scheme: light)" srcset="https://stats.hirdaya-shrestha.com.np/contribution?v=20260928&theme=light">
+  <img alt="Profile" src="https://stats.hirdaya-shrestha.com.np/contribution?v=20260928">
 </picture>
 
 <br>
